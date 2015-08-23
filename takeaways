@@ -1,0 +1,5 @@
+1. It is fundamental that I learn how to program in a way that uses memory efficiently.
+2. R is great for statistics but Python is great for text processing.
+3. The n-gram packages/modules that exist largely do not manage memory appropriately.
+4. The l-gram-win-0.02 program did manage memory wonderfully.
+5. I need to look deeper into whether using tools (e.g., text search) in NoSQL databases (e.g., Mongo) would be helpful for a problem like this.
