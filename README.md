@@ -4,5 +4,4 @@ You are reading the README.md file in the predicting GitHub repository that stor
 - R Code (ui.R, server.R)
 - R Presenter Code (predicting.Rpres)
 - Python Code (python folder) ...used primarily for preprocessing data.
-- lgram utility
 - takeaways from project
